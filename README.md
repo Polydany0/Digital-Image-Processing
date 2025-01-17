@@ -1,6 +1,6 @@
 # Digital-Image-Processing
 
-## Task 1
+## Task 1 (☑)
 сделать и отправить на kaggle https://d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html
 
 ## Task 2
