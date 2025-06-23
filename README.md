@@ -36,11 +36,11 @@ https://d2l.ai/chapter_convolutional-modern/alexnet.html
 ## 2 Semester
 
 ### Task 1
-Vision Transformers for Image Classification 
-Swin Transformer 
-CvT 
+Vision Transformers for Image Classification\
+Swin Transformer\
+CvT\
 
 ### Task 2
-DINAT 
-MobileViT v2 
-FineTuning Vision Transformer for Object Detection (Helmet) 
+DINAT\ 
+MobileViT v2\ 
+FineTuning Vision Transformer for Object Detection (Helmet)\ 
