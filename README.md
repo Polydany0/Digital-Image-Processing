@@ -14,7 +14,7 @@ https://www.kaggle.com/code/gauravduttakiit/image-processing-notebook
 
 + может быть, добавить дополнительные классические алгоритмы предобработки
 
-## Task 4
+## Task 4 (☑)
 https://www.kaggle.com/code/blurredmachine/lenet-architecture-a-complete-guide
 
 утащить блокнот к себе
