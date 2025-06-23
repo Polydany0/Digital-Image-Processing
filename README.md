@@ -1,6 +1,6 @@
-# 1 Semester
-
 ## Digital-Image-Processing
+
+## 1 Semester
 
 ### Task 1 (☑)
 сделать и отправить на kaggle https://d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html
@@ -33,4 +33,4 @@ https://d2l.ai/chapter_convolutional-modern/alexnet.html
 ### Task 6
 8.2, 8.3, 8.4 exercises
 
-# 2 Semester
+## 2 Semester
