@@ -3,7 +3,7 @@
 ## Task 1 (☑)
 сделать и отправить на kaggle https://d2l.ai/chapter_multilayer-perceptrons/kaggle-house-price.html
 
-## Task 2
+## Task 2 (~)
 LeNet, Alexnet, VGG воспроизвести на Python (загрузка данных, обучение, метрики, коррекция гиперпараметров - добавление слоев, изменение размеров свертки, добавление слоев)
 
 ## Task 3
