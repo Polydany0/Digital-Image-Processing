@@ -1,4 +1,4 @@
-## Digital-Image-Processing
+# Digital-Image-Processing
 
 ## 1 Semester
 
