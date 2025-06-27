@@ -46,4 +46,4 @@ MobileViT v2 (☑)\
 FineTuning Vision Transformer for Object Detection (Helmet)
 
 ### Task 3
-DETR\
+DETR
