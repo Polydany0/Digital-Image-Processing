@@ -47,3 +47,7 @@ FineTuning Vision Transformer for Object Detection (Helmet)
 
 ### Task 3 (☑)
 DETR (☑)
+
+### Task 4 (~)
+Vision Transformers : Semantic Segmentation Transfer Learning (👀)\
+...
