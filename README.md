@@ -42,5 +42,5 @@ CvT (☑)
 
 ### Task 2
 DINAT\
-MobileViT v2\
+MobileViT v2 (☑)\
 FineTuning Vision Transformer for Object Detection (Helmet)
