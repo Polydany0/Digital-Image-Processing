@@ -36,8 +36,8 @@ https://d2l.ai/chapter_convolutional-modern/alexnet.html
 ## 2 Semester
 
 ### Task 1
-Vision Transformers for Image Classification\
-Swin Transformer\
+Vision Transformers for Image Classification (👀)\
+Swin Transformer (☑)\
 CvT
 
 ### Task 2
